@@ -1,0 +1,4 @@
+h3. My Dumb Theremin Experiment
+
+This relies on the "minim":http://code.compartmental.net/tools/minim/ library.
+Their site has sane installation instructions.
